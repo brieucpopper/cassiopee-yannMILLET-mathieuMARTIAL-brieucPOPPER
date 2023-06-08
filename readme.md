@@ -65,7 +65,7 @@ This new version of the database with added columns is then saved in topic.csv
   
 ## 3. adding sentiment analysis
 
-This analysis is long to run on many posts (approximately 3 hours on a decent computer)
+This analysis is long to run on many posts (approximately 3 hours for this database on a decent computer)
 
 The file nlp.py is the file doing the work here.
 
