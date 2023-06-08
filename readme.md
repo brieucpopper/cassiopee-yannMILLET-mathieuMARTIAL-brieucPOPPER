@@ -10,7 +10,8 @@
 This project aims to discuss how differents factors such as the hour at which a post is posted, how many emojis are inside the post, or even how positive a post is is correlated with the number of likes or comments on the post.
 Some interpretation can be done based on the statistics obtained.
 
-This readme will explain the code used and how to use it.  
+This readme will explain the code used and how to use it.
+The cassiopée "sythese de projet" is a approximately 15 pages long written document that completes this readme (the readme focuses mainly on how to use the code itself) 
 
 
   
